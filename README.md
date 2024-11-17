@@ -7,3 +7,11 @@ Step #5: Open "VMOS PRO".
 Step #6: Click a "+"
 Step #7: Click a "Import local ROM"
 Step #8: Click a "androidOS.zip". if it pop ups the "ROM Installation" To Wait to hit 100%. if "ROM Installation" is gone now it means "ROM Installation Done" but now loading. and it hits 100% it means: "Loaded" and Done! Now you have it!
+-------------------------------
+Requireds: VMOS Pro App Or Mod
+VMOS Pro: "VMOS Pro is the Pro version of VMOS, one of the best applications for virtualizing an Android operating system from your own smartphone or tablet. With this advanced version, you can customize the ROM to be emulated.
+Among the tools included in the app, you'll find the option to install Xposed modules, enjoy preinstalled Google services, superimpose any app over another, or change the resolution of the device to the one you want. The app gives you a choice of Android versions so you can make modifications depending on what you want to do."
+Made in GitCalvinJamesHub
+Made in Love ❤️
+• androidOS •
+---------------------------------
