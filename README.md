@@ -15,3 +15,7 @@ Made in GitCalvinJamesHub
 Made in Love ❤️
 • androidOS •
 ---------------------------------
+Android VM Version: 4.4.4
+androidOS Installer Version: 5.0.4.4.4.androidOS4.4.4
+Download Vmos Pro and androidOS Installer androidOS may not done.
+*Click Here Releases Note*
