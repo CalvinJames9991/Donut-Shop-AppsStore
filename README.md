@@ -1,4 +1,5 @@
 # OS Installer ![images](https://github.com/user-attachments/assets/ed761295-794a-4b6e-b011-cbee724dbb7f)
+(androidOS)
 Hello! This OS Installer!
 Step #1: Touch this app to view
 Step #2: Open ".installer" Hidden Files Step #3: Press the "Cut" button.
