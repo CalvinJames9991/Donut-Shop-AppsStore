@@ -1,4 +1,5 @@
 # OS Installer ![images](https://github.com/user-attachments/assets/ed761295-794a-4b6e-b011-cbee724dbb7f)
+https://xdaforums.com/m/androidos-xda.12990155/
 (androidOS)
 (NotDone)
 Hello! This OS Installer!
