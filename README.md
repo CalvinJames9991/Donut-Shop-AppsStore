@@ -8,4 +8,4 @@ Step #4: Select a "0".
 Step #5: Open "VMOS PRO".
 Step #6: Click a "+"
 Step #7: Click a "Import local ROM"
-Step #8: Click a "androidOS.zip". if it pop ups the "ROM Installation" To Wait. if the is now gone now it means "ROM Installation Done" and now loading. and it hits 100% now loaded now and Done! Now you have it!
+Step #8: Click a "androidOS.zip". if it pop ups the "ROM Installation" To Wait to hit 100%. if "ROM Installation" is gone now it means "ROM Installation Done" but now loading. and it hits 100% it means: "Loaded" and Done! Now you have it!
