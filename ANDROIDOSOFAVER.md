@@ -1,5 +1,5 @@
-OS: PaOS (GoldieOS) 
+OS APP: PaOS (GoldieOS) 
 ANDROID VERSION: 4.4.4
 THE ANDROIDOS.
 ---------------------
-NOTE: THIS A NOT DONE MAY NOT DONE NOW.
+
