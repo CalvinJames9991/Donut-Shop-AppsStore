@@ -1,4 +1,4 @@
-if you want Download Vmos Pro or Vmos Pro Mod version.
-https://vmos-pro.en.uptodown.com/android
-https://modyolo.com/vmos-pro.html
-or HappyMod.
+if you want Download Virtual Master App
+Google Play
+https://play.google.com › datasafety
+Virtual Master - Android Clone - Apps on Google Play
